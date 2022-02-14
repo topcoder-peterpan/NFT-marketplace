@@ -1,5 +1,5 @@
 pragma solidity >=0.4.22;
-
+//
 contract Counter {
     uint256 private count = 0;
     uint256 moneyStored = 0;
